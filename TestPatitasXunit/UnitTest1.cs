@@ -26,6 +26,7 @@ namespace TestPatitasXunit
                     new Cita { Cita_Id = 1, Fecha = DateTime.Now, Costo = 50.0, Mascota_Id = 1 },
                     new Cita { Cita_Id = 2, Fecha = DateTime.Now.AddDays(1), Costo = 75.0, Mascota_Id = 2 }
                 });
+
                 dbContext.SaveChanges();
 
                 var controller = new CitaController(dbContext);
