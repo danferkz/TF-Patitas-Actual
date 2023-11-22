@@ -1,0 +1,48 @@
+﻿@model Mascota
+@{
+    ViewData["Title"] = "Lista de Mascotas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-4">
+        <h3 class="text-dark">Lista de Mascotas</h3>
+    </div>
+    <div class="col-3">
+        <a asp-action="Crear" class="btn form-control" id="enviar">Crear Mascota</a>
+    </div>
+</div>
+
+<div>
+    
+        <table class="table border">
+            <tr class="text-white tabla-header">
+                <th>NombreMascota</th>
+                <th>Sexo</th>
+                <th>Peso</th>
+                <th>Raza</th>
+                <th>Color</th>
+                <th>Nombre del dueño</th>
+                <th></th>
+            </tr>
+
+            @foreach (Mascota Mascotas in ViewBag.Mascota)
+            {
+                <tr class="tabla1">
+                    <td>@Mascotas.NombreMascota</td>
+                    <td>@Mascotas.Sexo</td>
+                    <td>@Mascotas.Peso</td>
+                    <td>@Mascotas.Raza</td>
+                    <td>@Mascotas.Color</td>
+                    <td>@Mascotas.Cliente.NombreApellido</td>
+                    <td>
+                        <a class="btn  " asp-action="Editar" id="enviar" asp-route-id="@Mascotas.Mascota_Id">Editar</a>
+                        <a class="btn  " asp-action="Descripcion" id="enviar" asp-route-id="@Mascotas.Mascota_Id">Descripcion</a>
+                        <a class="btn  " asp-action="Borrar" id="enviar" asp-route-id="@Mascotas.Mascota_Id">Borrar</a>
+
+                    </td>
+                </tr>
+            }
+        </table>
+    
+
+</div>

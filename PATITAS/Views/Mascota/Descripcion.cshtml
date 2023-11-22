@@ -1,0 +1,46 @@
+﻿@model PATITAS.Models.Mascota
+@{
+    ViewData["Title"] = "Descripcion de mascota";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+<h3 class="text-center">Descripcion Mascota</h3>
+<form method="post" asp-action="AgregarDescripcion">
+    <input type="hidden" asp-for="Mascota_Id" />
+    <input type="hidden" asp.for="Descripcion.Descripcion_Id" />
+    <div class="row">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-12 mt-4">
+            <div class="row">
+                <div class="col-4">
+                    <label asp-for="NombreMascota"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="NombreMascota" class="form-control" disabled/>
+                    <span asp-validation-for="NombreMascota" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-4">
+                    <label asp-for="Descripcion.Contenido"></label>
+                </div>
+                <div class="col-8">
+                    <textarea asp-for="Descripcion.Contenido" rows="10" cols="78">Escribe aquí la descripción de su mascota</textarea>
+                    <span asp-validation-for="Descripcion.Contenido" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col-3">
+                    <a class="text-dark" asp-action="Index">Volver a lista</a>
+                </div>
+                <div class="col-5 offset-4">
+                    <button type="submit" class="btn form-control" id="enviar">Crear Descripcion</button>
+                    &nbsp;
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

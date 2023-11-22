@@ -1,0 +1,34 @@
+﻿<link rel="stylesheet" href="~/css/crearcuentavista.css" asp-append-version="true" />
+@{
+    ViewData["Title"] = "Registro de usuario";
+}
+<h1 class="text-center m-4 custom-title">Crear una cuenta nueva</h1>
+<p class="mb-3 text-sm mx-auto text-center custom-text">
+    ¿Ya estás registrado?
+    <a href="Acceso" class="custom-link">
+        <strong class="custom-text-bold">Ingresa</strong>
+    </a>
+</p>
+<section>
+    <div class="container d-flex justify-content-center">
+        <form>
+            <div class="mb-8">
+                <label for="nombredeusuario" class="form-label">NOMBRE</label>
+                <input class="form-control" id="nom" maxlength="20">
+            </div>
+            <div class="mb-2">
+                <label for="correoelectronico" class="form-label">CORREO ELECTRONICO</label>
+                <input class="form-control" id="corr">
+            </div>
+            <div class="mb-2">
+                <label for="Clave" class="form-label">CLAVE</label>
+                <input class="form-control" id="clav">
+            </div>
+            <div class="mb-2">
+                <label for="FechaNacimiento" class="form-label">FECHA DE NACIMIENTO</label>
+                <input class="form-control" id="FechaNacimiento">
+            </div>
+            <button type="submit" class="btn btn-secondary mx-auto d-block custom-button">CREAR</button>
+        </form>
+    </div>
+</section>

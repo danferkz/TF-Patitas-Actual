@@ -1,0 +1,46 @@
+﻿.item img {
+    height: 180px;
+    width: 100px;
+}
+body {
+    color: #86654B;
+}
+
+.btn-secondary {
+    background-color: #86654B;
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    color: #31241E;
+}
+
+.cart-icon {
+    position: absolute;
+    top: 100px;
+    right: 30px;
+    font-size: 10px; 
+    color: #86654B;
+    cursor: pointer;
+}
+.cart-icon img {
+    width: 50px; 
+    height: 50px; 
+    color: #86654B;
+}
+
+.figure-img img {
+    height: 10px; 
+}
+.divider {
+    border-top: 5px solid #31241E;
+    margin: 2px;
+}
+pre {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px
+}

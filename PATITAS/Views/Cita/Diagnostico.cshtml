@@ -1,0 +1,68 @@
+﻿@model PATITAS.Models.Cita
+@{
+    ViewData["Title"] = "Diagnóstico de la cita";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+<h3 class="text-center">Diagnóstico Cita</h3>
+<form method="post" asp-action="AgregarDiagnostico">
+    <input type="hidden" asp-for="Cita_Id" />
+    <input type="hidden" asp.for="Diagnostico.Diagnostico_Id" />
+    <div class="row">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-12 mt-4">
+            <div class="row">
+                <div class="col-4">
+                    <label asp-for="NombreCita"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="NombreCita" class="form-control input1" disabled/>
+                    <span asp-validation-for="NombreCita" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-4">
+                    <label asp-for="Diagnostico.Sintomas"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Diagnostico.Sintomas" class="form-control input1" />
+                    <span asp-validation-for="Diagnostico.Sintomas" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-4">
+                    <label asp-for="Diagnostico.DiagnosticoFinal"></label>
+                </div>
+                <div class="col-8">
+                    <textarea asp-for="Diagnostico.DiagnosticoFinal" class="form-control input1" rows="10" cols="78">Escribe aquí el diagnóstico de la cita</textarea>
+                    <span asp-validation-for="Diagnostico.DiagnosticoFinal" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-4">
+                    <label asp-for="Diagnostico.Medicamentos"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Diagnostico.Medicamentos" class="form-control input1" />
+                    <span asp-validation-for="Diagnostico.Medicamentos" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row mt-4">
+                <div class="col-3">
+                    <a class="text-dark" asp-action="Index">Volver a lista</a>
+                </div>
+                <div class="col-5 offset-4">
+                    <button type="submit" class="form-control" id="enviar">Crear Diagnóstico</button>
+                    &nbsp;
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+

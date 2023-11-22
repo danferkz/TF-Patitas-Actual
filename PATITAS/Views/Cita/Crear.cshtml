@@ -1,0 +1,68 @@
+﻿@model PATITAS.Models.CitaMascotaTrabajadorVM
+@{
+    ViewData["Title"] = "Crear Cita";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<br />
+<h3 class="text-center ">Cita</h3>
+<form method="post" asp-action="Crear">
+
+    <br />
+    <br />
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="row">
+        <div class="col-4">
+            <label asp-for="Cita.NombreCita"></label>
+        </div>
+        <div class="col-8">
+            <input asp-for="Cita.NombreCita" class="form-control input1" />
+            <span asp-validation-for="Cita.NombreCita" class="text-danger"></span>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-4">
+            <label>Mascota</label>
+        </div>
+        <div class="col-8">
+            @Html.DropDownListFor(u => u.Cita.Mascota_Id, Model.ListaMascota,"--Lista de mascotas--",
+            new {@class = "form-control"})
+            <span asp-validation-for="Cita.Mascota" class="text-danger"></span>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-4">
+            <label asp-for="Cita.Fecha"></label>
+        </div>
+        <div class="col-8">
+            <input asp-for="Cita.Fecha" class="form-control input1" />
+            <span asp-validation-for="Cita.Fecha" class="text-danger"></span>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-4">
+            <label asp-for="Cita.Costo"></label>
+        </div>
+        <div class="col-8">
+            <input asp-for="Cita.Costo" class="form-control input1" />
+            <span asp-validation-for="Cita.Costo" class="text-danger"></span>
+        </div>
+    </div>
+    <br />
+    <div class="row mt-4">
+        <div class="col-3">
+            <a class="text-dark" asp-action="Index">Volver a la Lista</a>
+        </div>
+        <div class="row mt-4">
+            <div class="col-5 offset-4">
+                <button type="submit" class="form-control" id="enviar">Asignar Cita</button>
+                &nbsp;
+            </div>
+        </div>
+    </div>
+    
+
+</form>

@@ -1,0 +1,82 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.cuerpo {
+    background-color: #F6F4F3;
+}
+#logo{
+    
+    color: #86554b;
+}
+h3 {
+    color: #86654B;
+}
+#enviar {
+    background-color: #86654B;
+    color:white;
+
+}
+#formulario {
+    background-color: red
+}
+label {
+    font-family: 'DM Sans', sans-serif;
+    color: #8F8E8E;
+}
+.input1 {
+    background-color: #D1C8C1;
+    font-family: 'Poppins', sans-serif;
+}
+
+.tabla1 {
+    background-color: #D1C8C1;
+}
+.tabla-header {
+    background-color: #31241E;
+}
+    
+#logoimg {
+    background-color: transparent;
+    width: 50px;
+
+}
+
+.navbar-nav .nav-link {
+    transition: font-size 0.2s ease-in-out;
+    font-size: 18px;
+}
+
+    .navbar-nav .nav-link:hover {
+        font-size: 20px;
+    }
+
+.navbar-nav.navbar-right {
+    margin-left: auto;
+}
+
+.custom-navbar-nav .nav-item {
+    margin-right: 70px;
+    margin-top: 10px;
+}
+
+.custom-navbar-nav .nav-link {
+    color: #86554b !important;
+}
+#seccion{
+    color:red
+}

@@ -1,0 +1,50 @@
+﻿.custom-title {
+    color: #86654B;
+    font-family: "Poppins Medium", Arial, sans-serif;
+    font-size: 2.3em; 
+}
+
+.custom-text {
+    font-family: "DM Sans", Arial, sans-serif;
+    color: #86654B;
+    font-size: 0.9em;
+}
+
+.custom-link {
+    font-family: "DM Sans", Arial, sans-serif;
+    color: #86654B;
+    text-decoration: none;
+    font-size: 0.9em; 
+}
+
+    .custom-link:hover {
+        font-family: "DM Sans", Arial, sans-serif;
+        color: #86654B;
+        text-decoration: none;
+    }
+
+.custom-text-bold {
+    font-weight: bold;
+    font-size: 1.3em; 
+}
+
+.form-control,
+.form-control:focus {
+    background-color: #D1C8C1;
+    font-size: 0.9em; 
+}
+
+.form-label {
+    font-family: "DM Sans", Arial, sans-serif;
+    font-size: 0.8em; 
+}
+
+.custom-button {
+    background-color: #86654B;
+    color: white;
+    font-size: 0.9em; 
+}
+.custom-button:hover {
+    background-color: sandybrown;
+    color: floralwhite
+}

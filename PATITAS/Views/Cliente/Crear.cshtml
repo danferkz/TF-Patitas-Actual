@@ -1,0 +1,68 @@
+﻿@model PATITAS.Models.Cliente
+@{
+    ViewData["Title"] = "Crear Cliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+<h3 class="text-center ">Crear un nuevo Cliente</h3>
+<form method="post" asp-action="Crear">
+    <div class="row text-dark ">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-12 mt-4">
+            <div class="row">
+                <div class="col-4">
+                    <label asp-for="NombreApellido"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="NombreApellido" class="form-control input1"  />
+                    <span asp-validation-for="NombreApellido" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-4">
+                    <label asp-for="Telefono"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Telefono" class="form-control input1" />
+                    <span asp-validation-for="Telefono" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-4">
+                    <label asp-for="Correo"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Correo" class="form-control input1"  />
+                    <span asp-validation-for="Correo" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-4">
+                    <label asp-for="Direccion"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Direccion" class="form-control input1" />
+                    <span asp-validation-for="Direccion" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row mt-4">
+                <div class="col-3">
+                    <a class="text-dark" asp-action="Index">Volver a la Lista</a>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-5 offset-4">
+                        <button type="submit" class="form-control" id="enviar">CREAR</button>
+                        &nbsp;
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</form>

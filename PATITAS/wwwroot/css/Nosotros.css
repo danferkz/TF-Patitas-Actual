@@ -1,0 +1,15 @@
+﻿h4 {
+    text-align: justify;
+    font-size: 20px;
+}
+
+img.mediana {
+    width: 80%;
+    height: 350px;
+ 
+ 
+}
+.imagen{
+    display:flex;
+    justify-content: center
+}

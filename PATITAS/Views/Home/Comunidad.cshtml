@@ -1,0 +1,242 @@
+﻿<link rel="stylesheet" href="~/css/Comunidad.css" asp-append-version="true" />
+
+
+    <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+
+        <div class="carousel-inner">
+            <div class="carousel-item active c-item">
+                <img src="/img/caminata.jpg" class="d-block w-100 c-img" alt="Slide 1">
+                <div class="carousel-caption top-0 mt-4">
+                    <p class="mt-5 fs-3 text-uppercase">Descubre la favorita de todas</p>
+                    <h1 class="display-1 fw-bolder text-capitalize">Caminata perruna</h1>
+                    <a href="#descripcion-horarios" class="btn btn-primary btn-custom px-4 py-2 fs-5 mt-5">Horario</a>
+                </div>
+            </div>
+            <div class="carousel-item c-item">
+                <img src="/img/comidaperritos.jpg" class="d-block w-100 c-img" alt="Slide 2">
+                <div class="carousel-caption top-0 mt-4">
+                    <p class="text-uppercase fs-3 mt-5">Galletitas para uno</p>
+                    <p class="display-1 fw-bolder text-capitalize">Galletitas para todos</p>
+                <a href="#descripcion-proyecto" class="btn btn-primary btn-custom px-4 py-2 fs-5 mt-5">Conocer</a>
+                </div>
+            </div>
+            <div class="carousel-item c-item">
+                <img src="/img/perroelegante.jpg" class="d-block w-100 c-img" alt="Slide 3">
+                <div class="carousel-caption top-0 mt-4">
+                    <p class="text-uppercase fs-3 mt-5">¿A donde tan galan perruno?</p>
+                    <p class="display-1 fw-bolder text-capitalize">¡A la Vacunaton!</p>
+                    <a href="#descripcion-vacunaton" class="btn btn-primary btn-custom px-4 py-2 fs-5 mt-5">Enterate</a>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#hero-carousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#hero-carousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <pre> </pre>
+    <pre> </pre>
+
+<div class="container">
+<section id="descripcion-horarios">
+    <h2>¡Únete a la caminata perruna!</h2>
+    <p>¡La caminata perruna es la actividad más divertida para tu mascota y para ti! Ven y disfruta de un paseo al aire libre junto a otros amantes de los perros. Nuestro evento promete muchas risas, nuevos amigos peludos y momentos inolvidables.</p>
+
+    <h3>Horarios</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Mes</th>
+                <th>Sábado</th>
+                <th>Domingo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Julio</td>
+                <td>10:00 AM</td>
+                <td>11:00 AM</td>
+            </tr>
+            <tr>
+                <td>Agosto</td>
+                <td>9:00 AM</td>
+                <td>10:00 AM</td>
+            </tr>
+            <tr>
+                <td>Septiembre</td>
+                <td>10:30 AM</td>
+                <td>11:30 AM</td>
+            </tr>
+        </tbody>
+    </table>
+</section>
+
+    <section class="gallery min-vh-80">
+        <div class="container-lg">
+            <div class="row gy-4 row-cols-1 row-cols-sm-2 row-cols-md-3">
+                <div class="col">
+                    <img src="/img/caminata.jpg" class="gallery-item" alt="Gallery1">
+                </div>
+
+                <div class="col">
+                    <img src="/img/caminata2.png" class="gallery-item" alt="Gallery2">
+                </div>
+
+                <div class="col">
+                    <img src="/img/caminata3.jpg" class="gallery-item" alt="Gallery3">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modal -->
+    <div class="modal fade" id="gallery-popup" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="images/1.jpg" class="modal-img" alt="Modal Image">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script type="text/javascript">
+        document.addEventListener("click", function (e) {
+            if (e.target.classList.contains("gallery-item")) {
+                const src = e.target.getAttribute("src");
+                document.querySelector(".modal-img").src = src;
+                const myModal = new bootstrap.Modal(document.getElementById('gallery-popup'));
+                myModal.show();
+            }
+        })
+    </script>
+
+
+<section id="descripcion-proyecto">
+    <h2>¡Ayúdanos a alimentar a los perros menos afortunados!</h2>
+    <p>En nuestra veterinaria, tenemos un proyecto social que consiste en recorrer las calles para brindar comida a los perros en estado de abandono. Queremos marcar la diferencia en la vida de estos animalitos necesitados.</p>
+    <p>Es importante destacar que, aunque deseamos ayudar a todos los perros, no somos un albergue y no podemos hacerme cargo de ellos a largo plazo. Sin embargo, los invitamos a unirse a nuestros recorridos y ser parte de esta noble causa.</p>
+    <p>Si no pueden asistir pero desean apoyar, pueden traer galletas, ropa para perros, gatos u otros productos que crean que puedan ser útiles para estos animales necesitados.</p>
+
+    <h3>Horarios</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Mes</th>
+                <th>Viernes</th>
+                <th>Domingo</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Julio</td>
+                <td>-</td>
+                <td>10:00 AM</td>
+            </tr>
+            <tr>
+                <td>Agosto</td>
+                <td>2:00 PM</td>
+                <td>11:00 AM</td>
+            </tr>
+            <tr>
+                <td>Septiembre</td>
+                <td>3:00 PM</td>
+                <td>12:30 PM</td>
+            </tr>
+        </tbody>
+    </table>
+</section>
+
+    <section class="gallery min-vh-80">
+        <div class="container-lg">
+            <div class="row gy-4 row-cols-1 row-cols-sm-2 row-cols-md-3">
+                <div class="col">
+                    <img src="https://www.petdarling.com/wp-content/uploads/2020/03/comida-perros-callejeros-coronavirus.jpg" class="gallery-item" alt="Gallery1">
+                </div>
+
+                <div class="col">
+                    <img src="https://qph.cf2.quoracdn.net/main-qimg-fca3f2f74571f7f77594ddbc9ff5e4f1-lq" class="gallery-item" alt="Gallery2">
+                </div>
+
+                <div class="col">
+                    <img src="https://www.cutivalu.pe/wp-content/uploads/2017/10/Perros-696x400.jpeg" class="gallery-item" alt="Gallery3">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="descripcion-vacunaton">
+        <h2>¡Descubre la Vacunaton!</h2>
+        <p>La Vacunaton es una campaña de vacunación para las mascotas de nuestra comunidad. Nos preocupamos por su salud y bienestar, por eso ofrecemos este servicio de vacunación gratuito.</p>
+        <p>Es importante destacar que, por el momento, la Vacunaton solo es válida para las mascotas de nuestra comunidad. Agradecemos tu comprensión y colaboración.</p>
+
+        <h3>Horarios</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Mes</th>
+                    <th>Día</th>
+                    <th>Hora</th>
+                    <th>Lugar</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Julio</td>
+                    <td>Domingo</td>
+                    <td>9:00 AM - 12:00 PM</td>
+                    <td>Parque Central</td>
+                </tr>
+                <tr>
+                    <td>Agosto</td>
+                    <td>Sábado</td>
+                    <td>10:00 AM - 1:00 PM</td>
+                    <td>Plaza Principal</td>
+                </tr>
+                <tr>
+                    <td>Septiembre</td>
+                    <td>Domingo</td>
+                    <td>11:00 AM - 2:00 PM</td>
+                    <td>Patio Comunitario</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+
+    <section class="gallery min-vh-80">
+        <div class="container-lg">
+            <div class="row gy-4 row-cols-1 row-cols-sm-2 row-cols-md-3">
+                <div class="col">
+                    <img src="https://cdn.www.gob.pe/uploads/document/file/2918783/standard_PERRO.JPG.jpeg.jpeg" class="gallery-item" alt="Gallery1">
+                </div>
+
+                <div class="col">
+                    <img src="https://munisanmiguel.gob.pe/wp-content/uploads/2022/08/4386c18a-78bb-48df-ac01-6cf5c3da6c9f-1.jpg" class="gallery-item" alt="Gallery2">
+                </div>
+
+                <div class="col">
+                    <img src="https://www.munijesusmaria.gob.pe/wp-content/uploads/2020/11/portada-vacunacioncanina-jesusmaria-noviembre2020.jpg" class="gallery-item" alt="Gallery3">
+                </div>
+            </div>
+        </div>
+    </section>
+
+<pre> </pre>
+
+</div>

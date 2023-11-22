@@ -1,0 +1,61 @@
+﻿<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<ul class="navbar-nav ml-auto">
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Cita" asp-action="Index" >CITA</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Cliente" asp-action="Index" id="seccion">CLIENTE</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Mascota" asp-action="Index" id="seccion">MASCOTA</a>
+        </li>
+        <div class="navbar-nav ml-auto" style="position:absolute; right:0">
+        <li class="nav-item">
+            <a class="nav-link text-dark" href="">Hola, @UserManager.GetUserName(User)</a>
+        </li>
+        <li class="nav-item">
+            <form id="logoutForm" method="post" class="form-inline" asp-controller="Cuenta" asp-action="SalirAplicacion">
+                <button type="submit" class="btn nav-link">Salir</button>
+            </form>
+        </li>
+        </div>
+        
+       
+        
+    }
+    else
+    {
+            <ul class="navbar-nav flex-grow-1">
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">NOSOTROS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Tienda">TIENDA</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Comunidad">COMUNIDAD</a>
+                </li>
+
+            </ul>
+            <!--Vista parcial para acceso(login) y registro-->
+
+        <div class="navbar-nav ml-auto" style="position:absolute; right:0">
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Cuenta" asp-action="Registro">REGISTRO</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Cuenta" asp-action="Acceso">ACCEDER</a>
+        </li>
+     </div>
+     
+        
+       
+    }
+</ul>

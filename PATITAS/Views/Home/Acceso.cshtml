@@ -1,0 +1,36 @@
+﻿<link rel="stylesheet" href="~/css/crearcuentavista.css" asp-append-version="true" />
+@{
+    ViewData["Title"] = "Login de usuario";
+}
+<h1 class="text-center m-4 custom-title">Acceso de Usuario</h1>
+
+<section>
+    <div class="container d-flex justify-content-center">
+        <form>
+            <div class="mb-8">
+                <label for="nombredeusuario" class="form-label">EMAIL</label>
+                <input class="form-control" id="nom" maxlength="20">
+            </div>
+            <div class="mb-2">
+                <label for="correoelectronico" class="form-label">CONTRASEÑA</label>
+                <input class="form-control" id="corr">
+            </div>
+            <br />
+            <p class="mb-3 text-sm mx-auto text-center custom-text">
+                ¿No tienes cuenta?
+                <a href="Registro" class="custom-link">
+                    <strong class="custom-text-bold">Registrate</strong>
+                </a>
+            </p>
+           
+            <p class="mb-3 text-sm mx-auto text-center custom-text">
+                ¿Olvidaste tu contraseña?
+                <a href="index.cshtml" class="custom-link">
+                    <strong class="custom-text-bold">Click Aquí</strong>
+                </a>
+            </p>
+          
+            <button type="submit" class="btn btn-secondary mx-auto d-block custom-button">Acceder</button>
+        </form>
+    </div>
+</section>

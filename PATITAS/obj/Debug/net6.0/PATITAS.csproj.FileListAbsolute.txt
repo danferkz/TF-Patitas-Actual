@@ -1,0 +1,732 @@
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfo.cs
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cache
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cs
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.staticwebassets.runtime.json
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.exe
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.deps.json
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.runtimeconfig.json
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.pdb
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.PATITAS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.build.PATITAS.props
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PATITAS.props
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PATITAS.props
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\scopedcss\bundle\PATITAS.styles.css
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\scopedcss\projectbundle\PATITAS.bundle.scp.css
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CopyComplete
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\refint\PATITAS.dll
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.pdb
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.genruntimeconfig.cache
+C:\Users\USER\source\repos\PATITAS\PATITAS\obj\Debug\net6.0\ref\PATITAS.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.csproj.AssemblyReference.cache
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfoInputs.cache
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfo.cs
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CoreCompileInputs.cache
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.MvcApplicationPartsAssemblyInfo.cache
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cache
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cs
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\refint\PATITAS.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.pdb
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\appsettings.Development.json
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\appsettings.json
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\PATITAS.staticwebassets.runtime.json
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\PATITAS.exe
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\PATITAS.deps.json
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\PATITAS.runtimeconfig.json
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\PATITAS.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\PATITAS.pdb
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Azure.Core.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Azure.Identity.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Humanizer.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\System.CodeDom.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\System.Text.Json.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.PATITAS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.build.PATITAS.props
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PATITAS.props
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PATITAS.props
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\staticwebassets.build.json
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\staticwebassets.development.json
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\scopedcss\bundle\PATITAS.styles.css
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\scopedcss\projectbundle\PATITAS.bundle.scp.css
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CopyComplete
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\PATITAS.genruntimeconfig.cache
+D:\Descargas\Nueva carpeta (2)\PATITAS\obj\Debug\net6.0\ref\PATITAS.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\appsettings.Development.json
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\appsettings.json
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\PATITAS.staticwebassets.runtime.json
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\PATITAS.exe
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\PATITAS.deps.json
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\PATITAS.runtimeconfig.json
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\PATITAS.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\PATITAS.pdb
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Azure.Core.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Azure.Identity.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Humanizer.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\System.CodeDom.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\System.Text.Json.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\TF-PM(Patitas)\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.csproj.AssemblyReference.cache
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfoInputs.cache
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfo.cs
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CoreCompileInputs.cache
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.MvcApplicationPartsAssemblyInfo.cache
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cache
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cs
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.PATITAS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.build.PATITAS.props
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PATITAS.props
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PATITAS.props
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\staticwebassets.build.json
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\staticwebassets.development.json
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\scopedcss\bundle\PATITAS.styles.css
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\scopedcss\projectbundle\PATITAS.bundle.scp.css
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CopyComplete
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.dll
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\refint\PATITAS.dll
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.pdb
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\PATITAS.genruntimeconfig.cache
+C:\TF-PM(Patitas)\PATITAS\obj\Debug\net6.0\ref\PATITAS.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\appsettings.Development.json
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\appsettings.json
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\PATITAS.staticwebassets.runtime.json
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\PATITAS.exe
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\PATITAS.deps.json
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\PATITAS.runtimeconfig.json
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\PATITAS.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\PATITAS.pdb
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Azure.Core.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Azure.Identity.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Humanizer.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\System.CodeDom.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\System.Text.Json.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.csproj.AssemblyReference.cache
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfoInputs.cache
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfo.cs
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CoreCompileInputs.cache
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.MvcApplicationPartsAssemblyInfo.cache
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cache
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cs
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.PATITAS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.build.PATITAS.props
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PATITAS.props
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PATITAS.props
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\staticwebassets.build.json
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\staticwebassets.development.json
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\scopedcss\bundle\PATITAS.styles.css
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\scopedcss\projectbundle\PATITAS.bundle.scp.css
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CopyComplete
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\refint\PATITAS.dll
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.pdb
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\PATITAS.genruntimeconfig.cache
+D:\Descargas\Trabajo Final Patitas\PATITAS\obj\Debug\net6.0\ref\PATITAS.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\appsettings.Development.json
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\appsettings.json
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.staticwebassets.runtime.json
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.exe
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.deps.json
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.runtimeconfig.json
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\PATITAS.pdb
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Azure.Core.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Azure.Identity.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Humanizer.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\System.CodeDom.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\System.Text.Json.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\TFINAL-PATITAS\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.csproj.AssemblyReference.cache
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfoInputs.cache
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfo.cs
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CoreCompileInputs.cache
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.MvcApplicationPartsAssemblyInfo.cache
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cache
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cs
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.PATITAS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.build.PATITAS.props
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PATITAS.props
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PATITAS.props
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets.build.json
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\staticwebassets.development.json
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\scopedcss\bundle\PATITAS.styles.css
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\scopedcss\projectbundle\PATITAS.bundle.scp.css
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CopyComplete
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.dll
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\refint\PATITAS.dll
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.pdb
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\PATITAS.genruntimeconfig.cache
+C:\TFINAL-PATITAS\PATITAS\obj\Debug\net6.0\ref\PATITAS.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\appsettings.Development.json
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\appsettings.json
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.staticwebassets.runtime.json
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.exe
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.deps.json
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.runtimeconfig.json
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.pdb
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Azure.Core.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Azure.Identity.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Humanizer.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.CodeDom.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Text.Json.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.csproj.AssemblyReference.cache
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfoInputs.cache
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfo.cs
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CoreCompileInputs.cache
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.MvcApplicationPartsAssemblyInfo.cache
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cache
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cs
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.PATITAS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.build.PATITAS.props
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PATITAS.props
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PATITAS.props
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets.build.json
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets.development.json
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\scopedcss\bundle\PATITAS.styles.css
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\scopedcss\projectbundle\PATITAS.bundle.scp.css
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CopyComplete
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\refint\PATITAS.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.pdb
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.genruntimeconfig.cache
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\ref\PATITAS.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Mailjet.Client.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.MvcApplicationPartsAssemblyInfo.cs
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\Descargas\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\appsettings.json
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.staticwebassets.runtime.json
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.exe
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.deps.json
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.runtimeconfig.json
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.pdb
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Mailjet.Client.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.csproj.AssemblyReference.cache
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfoInputs.cache
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfo.cs
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CoreCompileInputs.cache
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cache
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cs
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.PATITAS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.build.PATITAS.props
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PATITAS.props
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PATITAS.props
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\scopedcss\bundle\PATITAS.styles.css
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\scopedcss\projectbundle\PATITAS.bundle.scp.css
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CopyComplete
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\refint\PATITAS.dll
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.pdb
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.genruntimeconfig.cache
+C:\Users\horus\Downloads\TF-Patitas Actual\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\ref\PATITAS.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\appsettings.Development.json
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\appsettings.json
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.staticwebassets.runtime.json
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.exe
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.deps.json
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.runtimeconfig.json
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\PATITAS.pdb
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Azure.Core.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Azure.Identity.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Humanizer.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Mailjet.Client.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.CodeDom.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Text.Json.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.csproj.AssemblyReference.cache
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfoInputs.cache
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.AssemblyInfo.cs
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CoreCompileInputs.cache
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.MvcApplicationPartsAssemblyInfo.cs
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.MvcApplicationPartsAssemblyInfo.cache
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cache
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.RazorAssemblyInfo.cs
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.PATITAS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.build.PATITAS.props
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PATITAS.props
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PATITAS.props
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets.build.json
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\staticwebassets.development.json
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\scopedcss\bundle\PATITAS.styles.css
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\scopedcss\projectbundle\PATITAS.bundle.scp.css
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.csproj.CopyComplete
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\refint\PATITAS.dll
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.pdb
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\PATITAS.genruntimeconfig.cache
+D:\SOLD\calidad\TF-Patitas Actual\PATITAS\obj\Debug\net6.0\ref\PATITAS.dll

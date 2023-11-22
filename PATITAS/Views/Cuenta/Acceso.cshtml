@@ -1,0 +1,67 @@
+﻿@model AccesoViewModel
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> signInManager
+
+@{
+    ViewData["Title"] = "Acceso de empleado";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container d-flex justify-content-center">
+    <div >
+        <h3 class="text-center">Acceso de empleado</h3>
+
+
+        <div class="row mt-4">
+            <div >
+                <form asp-controller="Cuenta" asp-action="Acceso" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post">
+                    <div class="text-danger" asp-validation-summary="All"></div>
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label"></label>
+                        <input asp-for="Email" class="form-control" placeholder="Ingresa tu email" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Password" class="form-label"></label>
+                        <input asp-for="Password" class="form-control" placeholder="Ingresa la contraseña" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <div class="custom-check">
+                            <label asp-for="RememberMe">
+                                <input asp-for="RememberMe" />
+                                @Html.DisplayNameFor(m => m.RememberMe)
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <button id="enviar" type="submit" class="btn  w-100 btn-lg">Acceder <i class="bi bi-arrow-right-circle-fill"></i></button>
+
+                            <p><a class="text-dark" asp-action="Registro">Registrarse como un nuevo usuario?</a></p>
+                            <p><a class="text-dark" asp-action="OlvidoPassword">Olvidaste tu contraseña?</a></p>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+
+          
+            
+        </div>
+    </div>
+    
+    </div>
+
+
+
+    @section Scripts{
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+
+
